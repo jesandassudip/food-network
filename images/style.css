@@ -1,0 +1,52 @@
+body{
+    font-family: 'Merriweather', serif;
+    }
+   h1{
+       font-size: 50px;
+     }
+     .orange-color{
+         color: orange;
+     }
+     section{
+         display: flex;
+         margin-bottom: 100px;
+     }
+     .half-width{
+         width: 50%;
+         padding:2%;
+     }
+     .half-widt-img{
+        width: 50%;
+     }
+     
+     .link-button{
+         text-decoration: none;
+         background-image: linear-gradient(orange,tomato);
+         padding: 10px 40px;
+         color: white;
+         font-weight: 700;
+         border-radius: 20px;
+     }
+     .top-banner{
+         background-image: url(top-banner.png);
+     }
+     .recipies{
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+
+     }
+     .item{
+         width: 20%;
+         margin-left: 5%;
+         margin-right: 5%;
+     }
+     .item img{
+         width: 100%;
+         height: 300px;
+     }
+     .recipie-title{
+         text-align: center;
+     }
+     
+    
